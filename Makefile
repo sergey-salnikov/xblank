@@ -1,4 +1,4 @@
 CFLAGS = -Wno-deprecated-declarations
-LDFLAGS = -lX11 -lXext
+LDFLAGS = -lX11
 
 xblank: xblank.c
